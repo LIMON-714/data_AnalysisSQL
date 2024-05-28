@@ -3,7 +3,8 @@ SQL Data Analysis Projects
 
 # Load Data into SQL Server:
 
-Open SQL Server Management Studio.\n
+Open SQL Server Management Studio.
+
 Connect to your SQL Server instance.
 
 Create a new database or select an existing one where you want to load the data.
